@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NVAudioRecordTest</string>
+    <string name="title_testcase_detail">TestCase Detail</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+
+</resources>
